@@ -51,8 +51,10 @@ main {
   padding: 10px;
   margin: 20px;
   color: var(--highlight-color);
-  min-height: 100px;
-  text-align: center;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 70vw;
 }
 
